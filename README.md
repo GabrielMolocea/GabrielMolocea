@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GabrielMolocea
-- 👀 I’m interested in Java and Android Java
-- 🌱 I’m currently learning Android Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in JavaScript, Css and React
+- 🌱 I’m currently learning React
 - 📫 How to reach me gabriel_is3000@yahoo.com
 
 <!---
