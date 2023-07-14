@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GabrielMolocea
 - 👀 I’m interested in JavaScript, Css and React
 - 🌱 I’m currently learning React
-- 📫 How to reach me gabriel_is3000@yahoo.com
+- 📫 How to reach me gabrielgabriel1235@gmail.com
 
 <!---
 GabrielMolocea/GabrielMolocea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
