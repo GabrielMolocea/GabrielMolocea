@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabrielMolocea
 - 👀 I’m interested in JavaScript, CSS and React
-- 🌱 I’m React developer with over 2 years of experience
+- 🌱 I’m React developer with over 3 years of experience
 - 📫 How to reach me gabrielgabriel1235@gmail.com
 
 <!---
